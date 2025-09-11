@@ -44,5 +44,5 @@ If you find my work helpful, please consider supporting me. Your sponsorship all
 
 ## 📫 Connect with Me
 - 🌐 [GitHub](https://github.com/Lokeshchand33)  
-- 💼 LinkedIn (add your link here)  
-- ✉️ (add your email or portfolio link here)  
+- 💼 [LinkedIn (add your link here)](https://www.linkedin.com/in/lokesh-chand-a75387221)  
+- ✉️ lokeshchand307@gmail.com 
