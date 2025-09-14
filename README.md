@@ -23,12 +23,6 @@ If you find my work helpful, please consider supporting me. Your sponsorship all
 
 ---
 
-## 📈 GitHub Stats  
-
-![Lokesh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokeshchand33&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks**  
